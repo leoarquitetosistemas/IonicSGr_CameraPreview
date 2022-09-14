@@ -1,0 +1,1 @@
+# IonicSGr_CameraPreview
